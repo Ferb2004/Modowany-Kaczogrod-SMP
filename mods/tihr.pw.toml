@@ -1,0 +1,13 @@
+name = "Thanks I Have REI"
+filename = "tihr-neoforge-1.21.1-1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PCFvlyjm/versions/qTSebE7Q/tihr-neoforge-1.21.1-1.7.jar"
+hash-format = "sha512"
+hash = "39f3441e1be1b68bc54ca4797d2c1593aa8e30ec6c1b000979db06ff2ed47e8b0453a2f4d42cc68a47c3a8aeaf4c2a382127673e218b9fb5cd9217aaea66d66d"
+
+[update]
+[update.modrinth]
+mod-id = "PCFvlyjm"
+version = "qTSebE7Q"

@@ -1,0 +1,13 @@
+name = "Talking Heads"
+filename = "TalkingHeads-1.1.1-helmetfix+1.21.1+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Os35nfkh/versions/kiQ5yPfp/TalkingHeads-1.1.1-helmetfix%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "fe7e8e401367b40d40a2bf7c1d5c1c7fdfe1d84be56cebce6bfcc17cbbd560a516fc238d4f781e8631d4743535fa8cc3efa676ac507afa0a43528e917ff53902"
+
+[update]
+[update.modrinth]
+mod-id = "Os35nfkh"
+version = "kiQ5yPfp"
