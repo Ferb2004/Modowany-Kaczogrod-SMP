@@ -1,0 +1,13 @@
+name = "Concentration"
+filename = "concentration-neoforge-1.21-2.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QyvWSZ5S/versions/E7K9ZMD2/concentration-neoforge-1.21-2.3.0.jar"
+hash-format = "sha512"
+hash = "26c791064cdb297a380fa95f3080f1344bc7dceedbcce9251bfaaaeca2b8e434d86f1c916f638bfecd0aab732ceda2aaa63fdba0164ba149b67ae16205d80899"
+
+[update]
+[update.modrinth]
+mod-id = "QyvWSZ5S"
+version = "E7K9ZMD2"
