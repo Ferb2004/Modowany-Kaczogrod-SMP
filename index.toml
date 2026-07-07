@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "add_mods.sh"
-hash = "da5388f2c00cd24e7f2e07626e501b75ae5524aeadf674631abf8f31b2f9acb7"
-
-[[files]]
-file = "failed_mods.txt"
-hash = "332998881bb2ccf984827739bcd3180a921f6190af15493630916ecd95463ad7"
-
-[[files]]
-file = "fix_mods.sh"
-hash = "f6c979374ff6f1cfa0e80673fb1abf075e66684e9b5395b1ff6c6272c01f6653"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
@@ -448,6 +436,11 @@ hash = "ea4d8e711ad4fcb5589d6a9fbc5c46d86dfc9c6fcb0c4b74ef6cebcfc3c23065"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "3e01a509e0cdde9bc8f257ab201671531ecb1e9395b42e1a6c673ae72bdf1b1c"
+metafile = true
+
+[[files]]
 file = "mods/farsight.pw.toml"
 hash = "de6f8baf05357d0561e7fee40a5ff1149d30005f32ed88879056709263698dfc"
 metafile = true
@@ -738,6 +731,11 @@ hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "d7ff27bf5e0c0bd5ede8303d5a41cec193f700292c78c86ad6812a5193f013d9"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "2fb7e655ff6cd74cf4d97ce3cdb14c606e015ae3c59fa0a970deaddd990b6a80"
 metafile = true
@@ -875,11 +873,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
-metafile = true
-
-[[files]]
-file = "mods/polytone.pw.toml"
-hash = "f699d529f73e8c55caa126d307e73812397bedff926f0aaab9fc199adb716a3c"
 metafile = true
 
 [[files]]
@@ -1290,16 +1283,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "1a33e6d64e88ad59b65d126c6457d582e62724167349ea184eb237435298985e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/benigamers-enhanced-visuals.pw.toml"
-hash = "c7c5ff7d444c2f6fbc7d74513f14e8b575521e9eac824fabc74bfebf315cac67"
-metafile = true
-
-[[files]]
-file = "resourcepacks/musgo.pw.toml"
-hash = "73baddae9089be71b756413e36fc78900a76db3e8d1e2b8f50a1e15a52e2c5ed"
 metafile = true
 
 [[files]]
